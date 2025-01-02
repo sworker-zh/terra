@@ -1,0 +1,10 @@
+{
+  "updates": {
+    "windows": {
+      "open-url": "",
+      "latest-version": "1.1.5",
+      "download-url": "https://raw.githubusercontent.com/sworker-zh/terra/main/download/terra.exe",
+      "mandatory": true
+    }
+  }
+}
